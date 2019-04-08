@@ -1,0 +1,7 @@
+C:\Deepika Bachhav\Strong number\Strong number\bin\Debug\Strong number.exe.config
+C:\Deepika Bachhav\Strong number\Strong number\bin\Debug\Strong number.exe
+C:\Deepika Bachhav\Strong number\Strong number\bin\Debug\Strong number.pdb
+C:\Deepika Bachhav\Strong number\Strong number\obj\Debug\Strong number.csprojAssemblyReference.cache
+C:\Deepika Bachhav\Strong number\Strong number\obj\Debug\Strong number.csproj.CoreCompileInputs.cache
+C:\Deepika Bachhav\Strong number\Strong number\obj\Debug\Strong number.exe
+C:\Deepika Bachhav\Strong number\Strong number\obj\Debug\Strong number.pdb

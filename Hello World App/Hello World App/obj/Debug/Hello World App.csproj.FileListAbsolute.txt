@@ -1,0 +1,7 @@
+C:\Deepika Bachhav\Hello World App\Hello World App\bin\Debug\Hello World App.exe.config
+C:\Deepika Bachhav\Hello World App\Hello World App\bin\Debug\Hello World App.exe
+C:\Deepika Bachhav\Hello World App\Hello World App\bin\Debug\Hello World App.pdb
+C:\Deepika Bachhav\Hello World App\Hello World App\obj\Debug\Hello World App.csprojAssemblyReference.cache
+C:\Deepika Bachhav\Hello World App\Hello World App\obj\Debug\Hello World App.csproj.CoreCompileInputs.cache
+C:\Deepika Bachhav\Hello World App\Hello World App\obj\Debug\Hello World App.exe
+C:\Deepika Bachhav\Hello World App\Hello World App\obj\Debug\Hello World App.pdb

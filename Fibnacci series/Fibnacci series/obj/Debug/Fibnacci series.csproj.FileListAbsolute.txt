@@ -1,0 +1,7 @@
+C:\Deepika Bachhav\Fibnacci series\Fibnacci series\bin\Debug\Fibnacci series.exe.config
+C:\Deepika Bachhav\Fibnacci series\Fibnacci series\bin\Debug\Fibnacci series.exe
+C:\Deepika Bachhav\Fibnacci series\Fibnacci series\bin\Debug\Fibnacci series.pdb
+C:\Deepika Bachhav\Fibnacci series\Fibnacci series\obj\Debug\Fibnacci series.csprojAssemblyReference.cache
+C:\Deepika Bachhav\Fibnacci series\Fibnacci series\obj\Debug\Fibnacci series.csproj.CoreCompileInputs.cache
+C:\Deepika Bachhav\Fibnacci series\Fibnacci series\obj\Debug\Fibnacci series.exe
+C:\Deepika Bachhav\Fibnacci series\Fibnacci series\obj\Debug\Fibnacci series.pdb

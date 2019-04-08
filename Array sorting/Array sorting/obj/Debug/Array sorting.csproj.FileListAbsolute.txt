@@ -1,0 +1,7 @@
+C:\Deepika Bachhav\Array sorting\Array sorting\obj\Debug\Array sorting.csprojAssemblyReference.cache
+C:\Deepika Bachhav\Array sorting\Array sorting\obj\Debug\Array sorting.csproj.CoreCompileInputs.cache
+C:\Deepika Bachhav\Array sorting\Array sorting\bin\Debug\Array sorting.exe.config
+C:\Deepika Bachhav\Array sorting\Array sorting\bin\Debug\Array sorting.exe
+C:\Deepika Bachhav\Array sorting\Array sorting\bin\Debug\Array sorting.pdb
+C:\Deepika Bachhav\Array sorting\Array sorting\obj\Debug\Array sorting.exe
+C:\Deepika Bachhav\Array sorting\Array sorting\obj\Debug\Array sorting.pdb

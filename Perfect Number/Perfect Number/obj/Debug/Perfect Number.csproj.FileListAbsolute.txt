@@ -1,0 +1,7 @@
+C:\Deepika Bachhav\Perfect Number\Perfect Number\bin\Debug\Perfect Number.exe.config
+C:\Deepika Bachhav\Perfect Number\Perfect Number\bin\Debug\Perfect Number.exe
+C:\Deepika Bachhav\Perfect Number\Perfect Number\bin\Debug\Perfect Number.pdb
+C:\Deepika Bachhav\Perfect Number\Perfect Number\obj\Debug\Perfect Number.csprojAssemblyReference.cache
+C:\Deepika Bachhav\Perfect Number\Perfect Number\obj\Debug\Perfect Number.csproj.CoreCompileInputs.cache
+C:\Deepika Bachhav\Perfect Number\Perfect Number\obj\Debug\Perfect Number.exe
+C:\Deepika Bachhav\Perfect Number\Perfect Number\obj\Debug\Perfect Number.pdb

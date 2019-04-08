@@ -1,0 +1,7 @@
+C:\Deepika Bachhav\number conversion\number conversion\bin\Debug\number conversion.exe.config
+C:\Deepika Bachhav\number conversion\number conversion\bin\Debug\number conversion.exe
+C:\Deepika Bachhav\number conversion\number conversion\bin\Debug\number conversion.pdb
+C:\Deepika Bachhav\number conversion\number conversion\obj\Debug\number conversion.csprojAssemblyReference.cache
+C:\Deepika Bachhav\number conversion\number conversion\obj\Debug\number conversion.csproj.CoreCompileInputs.cache
+C:\Deepika Bachhav\number conversion\number conversion\obj\Debug\number conversion.exe
+C:\Deepika Bachhav\number conversion\number conversion\obj\Debug\number conversion.pdb

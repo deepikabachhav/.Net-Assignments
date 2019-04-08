@@ -1,0 +1,7 @@
+C:\Deepika Bachhav\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Deepika Bachhav\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Deepika Bachhav\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Deepika Bachhav\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Deepika Bachhav\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Deepika Bachhav\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Deepika Bachhav\Calculator\Calculator\obj\Debug\Calculator.pdb

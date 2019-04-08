@@ -1,0 +1,7 @@
+C:\Deepika Bachhav\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.exe.config
+C:\Deepika Bachhav\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.exe
+C:\Deepika Bachhav\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.pdb
+C:\Deepika Bachhav\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.csprojAssemblyReference.cache
+C:\Deepika Bachhav\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.csproj.CoreCompileInputs.cache
+C:\Deepika Bachhav\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.exe
+C:\Deepika Bachhav\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.pdb

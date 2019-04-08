@@ -1,0 +1,7 @@
+C:\Deepika Bachhav\Armstrong Number\Armstrong Number\bin\Debug\Armstrong Number.exe.config
+C:\Deepika Bachhav\Armstrong Number\Armstrong Number\bin\Debug\Armstrong Number.exe
+C:\Deepika Bachhav\Armstrong Number\Armstrong Number\bin\Debug\Armstrong Number.pdb
+C:\Deepika Bachhav\Armstrong Number\Armstrong Number\obj\Debug\Armstrong Number.csprojAssemblyReference.cache
+C:\Deepika Bachhav\Armstrong Number\Armstrong Number\obj\Debug\Armstrong Number.csproj.CoreCompileInputs.cache
+C:\Deepika Bachhav\Armstrong Number\Armstrong Number\obj\Debug\Armstrong Number.exe
+C:\Deepika Bachhav\Armstrong Number\Armstrong Number\obj\Debug\Armstrong Number.pdb

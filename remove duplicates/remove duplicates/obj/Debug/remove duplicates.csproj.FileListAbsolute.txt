@@ -1,0 +1,7 @@
+C:\Deepika Bachhav\remove duplicates\remove duplicates\bin\Debug\remove duplicates.exe.config
+C:\Deepika Bachhav\remove duplicates\remove duplicates\bin\Debug\remove duplicates.exe
+C:\Deepika Bachhav\remove duplicates\remove duplicates\bin\Debug\remove duplicates.pdb
+C:\Deepika Bachhav\remove duplicates\remove duplicates\obj\Debug\remove duplicates.csprojAssemblyReference.cache
+C:\Deepika Bachhav\remove duplicates\remove duplicates\obj\Debug\remove duplicates.csproj.CoreCompileInputs.cache
+C:\Deepika Bachhav\remove duplicates\remove duplicates\obj\Debug\remove duplicates.exe
+C:\Deepika Bachhav\remove duplicates\remove duplicates\obj\Debug\remove duplicates.pdb
